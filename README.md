@@ -17,9 +17,10 @@ Check out the live version [here](https://omni-food-web.vercel.app) .
 ## Technologies Used
 
 - **Frontend**
-   -  HTML
-   -  CSS
-   -  JavaScript
+  - HTML
+  - CSS
+  - CSS Flexbox
+  - CSS Grid
 
 - **Deployment:** Hosted on Vercel.
 
